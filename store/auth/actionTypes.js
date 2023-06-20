@@ -1,0 +1,63 @@
+/**
+ * Sign up
+ */
+export const SIGN_UP_REQUEST = "SIGNUP_REQUEST";
+export const SIGN_UP_SUCCESS = "SIGNUP_SUCCESS";
+export const SIGN_UP_FAILED = "SIGNUP_FAILED";
+
+/**
+ * login
+ */
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILED = "LOGIN_FAILED";
+
+
+/**
+ * Verify token
+ */
+export const VERIFY_TOKEN_REQUEST = "VERIFY_TOKEN_REQUEST";
+export const VERIFY_TOKEN_SUCCESS = "VERIFY_TOKEN_SUCCESS";
+export const VERIFY_TOKEN_FAILED = "VERIFY_TOKEN_FAILED";
+
+
+/**
+ * Swtich to professional role
+ */
+
+export const ROLE_UPDATE_REQUEST = "ROLE_UPDATE_REQUEST";
+export const ROLE_UPDATE_SUCCESS = "ROLE_UPDATE_SUCCESS";
+export const ROLE_UPDATE_FAILED = "ROLE_UPDATE_FAILED";
+
+
+/**
+ * Social Login
+ */
+export const SOCIAL_LOGIN_REQUEST = "SOCIAL_LOGIN_REQUEST";
+export const SOCIAL_LOGIN_SUCCESS = "SOCIAL_LOGIN_SUCCESS";
+export const SOCIAL_LOGIN_FAILED = "SOCIAL_LOGIN_FAILED";
+
+/**
+ * Social Login
+ */
+export const FORGOT_PASSWORD_REQUEST = "FORGOT_PASSWORD_REQUEST";
+export const FORGOT_PASSWORD_SUCCESS = "FORGOT_PASSWORD_SUCCESS";
+export const FORGOT_PASSWORD_FAILED = "FORGOT_PASSWORD_FAILED";
+
+/**
+ * Reset password
+ */
+export const RESET_PASSWORD_REQUEST = "RESET_PASSWORD_REQUEST";
+export const RESET_PASSWORD_SUCCESS = "RESET_PASSWORD_SUCCESS";
+export const RESET_PASSWORD_FAILED = "RESET_PASSWORD_FAILED";
+
+
+
+/**
+ * Verify email
+ */
+export const VERIFY_EMAIL_REQUEST = "VERIFY_EMAIL_REQUEST";
+export const VERIFY_EMAIL_SUCCESS = "VERIFY_EMAIL_SUCCESS";
+export const VERIFY_EMAIL_FAILED = "VERIFY_EMAIL_FAILED";
+
+

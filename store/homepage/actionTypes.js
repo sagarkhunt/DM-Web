@@ -1,0 +1,6 @@
+/**
+ * get home page details
+ */
+export const PROJECT_LIST_REQUEST = "PROJECT_LIST_REQUEST";
+export const PROJECT_LIST_SUCCESS = "PROJECT_LIST_SUCCESS";
+export const PROJECT_LIST_FAILED = "PROJECT_LIST_FAILED";

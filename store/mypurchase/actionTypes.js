@@ -1,0 +1,18 @@
+// Purchase list
+export const PURCHASE_LIST_REQUEST = "PURCHASE_LIST_REQUEST";
+export const PURCHASE_LIST_SUCCESS = "PURCHASE_LIST_SUCCESS";
+export const PURCHASE_LIST_FAILED = "PURCHASE_LIST_FAILED";
+
+/**
+ * add rating on project
+ */
+
+export const ADD_RATING_REQUEST = "ADD_RATING_REQUEST";
+export const ADD_RATING_SUCCESS = "ADD_RATING_SUCCESS";
+export const ADD_RATING_FAILED = "ADD_RATING_FAILED";
+
+/**More Products You'll Love */
+
+export const MORE_PRODUCT_REQUEST = "MORE_PRODUCT_REQUEST";
+export const MORE_PRODUCT_SUCCESS = "MORE_PRODUCT_SUCCESSS";
+export const MORE_PRODUCT_FAILED = "MORE_PRODUCT_FCAILED";
